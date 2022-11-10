@@ -13,7 +13,6 @@ custom_js:
 
 # Scatter Plot
 I decided that I wanted to find out if there was a connection between location of bigfoot sightings and the season in which they happened. I started by making a scatter plot of all the sightings with longitude on the x axis and latitude on the y axis. Altair quantitative scales include zero by default, which caused the scatter plot to be zoomed out. By changing the scale's 'zero' attribute to zero, I was able to make it a little more zoomed in. I started with a point mark, but I found the circles looked better and resulted in less lag when linked to the bar plot. I used quantitative encodings for the x and y because latitude and longitude are both numeric. I used nominative for color so that the color scale would be categorical, as is appropariate for the four seasons.
-Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bigfoot_dash.json" style="width: 100%"></vegachart>
 
