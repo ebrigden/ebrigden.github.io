@@ -7,14 +7,5 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-possibly a corgi, possibly not.  Either way there are really neat things I am up to!
+Hi! I am Emory. I a a Master's of Library and Informationn Science. I also work as an Informtation Architect. This is a place for me to share data visualizations.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>

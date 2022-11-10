@@ -5,7 +5,7 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : PossibleCorg 
+title               : Emory's Data Viz 
 description         : >-
                       I may or may not be a corgi.
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
@@ -34,26 +34,26 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
-  behance           : your_username
+  name              : Emory Brigden
+# image             : 
+#  behance           : ebrigden
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : jnaiman # JPN
+  email             : emory@understandinggroup.com
+#  facebook          : your_username
+  github            : ebrigden # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
-  twitch            : your_username
-  twitter           : your_username
-  vimeo             : your_username
-  youtube           : your_channel_name
+#  twitch            : your_username
+#  twitter           : emory_brigden
+#  vimeo             : your_username
+#  youtube           : your_channel_name
 # keybase           : your_username
 
 
@@ -71,8 +71,8 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# disqus:
+# shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
