@@ -31,3 +31,4 @@ I found that summer is generally the most popular season for bigfoot sightings. 
 {% include elements/button.html link="https://github.com/ebrigden/ebrigden.github.io/blob/main/python_notebooks/brigden-emory-assignment10.ipynb" text="The Analysis" %}
 </div>
 
+ 
