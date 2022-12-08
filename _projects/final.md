@@ -30,6 +30,9 @@ It seems that both coups and intra-state wars happen year round!
 ## Check out the data yourself!
 Cline Center Coup D’état Project Dataset: https://doi.org/10.13012/B2IDB-9651987_V3
 Correlates of War Intra-state War Dataset: https://correlatesofwar.org/data-sets/cow-war/
+<div class="middle">
+{% include elements/button.html link="https://github.com/ebrigden/ebrigden.github.io/blob/main/python_notebooks/brigden-emory-final3.ipynb" text="The Analysis" %}
+</div>
 ## Citations
 Peyton, Buddy; Bajjalieh, Joseph; Shalmon, Dan; Martin, Michael; Bonaguro, Jonathan (2021): Cline Center Coup D’état Project Dataset. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9651987_V3
 Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 – 2007. Washington DC: CQ Press.
