@@ -28,8 +28,10 @@ These bar graphs show the number of coups and intra-state wars by month.
 It seems that both coups and intra-state wars happen year round!
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_viz_3.json" style="width: 100%"></vegachart>
 ## Check out the data yourself!
-Cline Center Coup D’état Project Dataset: https://doi.org/10.13012/B2IDB-9651987_V3
-Correlates of War Intra-state War Dataset: https://correlatesofwar.org/data-sets/cow-war/
+Cline Center Coup D’état Project Dataset: https://doi.org/10.13012/B2IDB-9651987_V3  
+
+Correlates of War Intra-state War Dataset: https://correlatesofwar.org/data-sets/cow-war/  
+
 <div class="middle">
 {% include elements/button.html link="https://github.com/ebrigden/ebrigden.github.io/blob/main/python_notebooks/brigden-emory-final3.ipynb" text="The Analysis" %}
 </div>
